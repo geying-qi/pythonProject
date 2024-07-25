@@ -1,0 +1,13 @@
+-
+  featrue: 系统配置模块
+  story: 接口
+  title: 拒绝原因
+  request:
+    method: get
+    url: https://beta.tupu360.com/ats/config/refuseReason/list
+    headers:
+         'Authorization': '648c99c6-856b-49b8-a0fc-2db384196cdc'
+         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
+
+    params: null
+  vilidate: null

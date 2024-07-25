@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 25 21:52:40 CST 2024","Thu Jul 25 21:52:40 CST 2024","194","testcase1","test_class","Testt","","","test_rf[caseinfo0]",""
+"passed","Thu Jul 25 21:52:40 CST 2024","Thu Jul 25 21:52:40 CST 2024","282","testcase1","test_class","Testt","","","test_pt[caseinfo10]",""
